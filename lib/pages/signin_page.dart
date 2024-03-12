@@ -19,7 +19,7 @@ class SignInPage extends StatelessWidget {
             "https://qrologic.com/images/Mini-ATM-Service.png",
           ),
           const SizedBox(
-            height: 10,
+            height: 20,
           ),
           const Align(
             alignment: Alignment.bottomLeft,
@@ -34,6 +34,9 @@ class SignInPage extends StatelessWidget {
                 ),
               ),
             ),
+          ),
+          const SizedBox(
+            height: 10,
           ),
           CustomTextField(
               readOnly: true,
