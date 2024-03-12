@@ -26,3 +26,13 @@ Feel free to explore the codebase, make improvements, and customize it to suit y
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
+**SCREENS**
+
+![Screenshot 2024-03-12 121613](https://github.com/Hari15112003/FLUTTER_UI_01/assets/96382443/6cf61453-c1c4-46ed-9318-a99de139b850)
+![Screenshot 2024-03-12 121635](https://github.com/Hari15112003/FLUTTER_UI_01/assets/96382443/5e24763e-8dec-4018-82de-2ec95cf94536)
+
+![Screenshot 2024-03-12 121504](https://github.com/Hari15112003/FLUTTER_UI_01/assets/96382443/24769b26-5ef2-4002-9596-dcadec317314)
+![Screenshot 2024-03-12 121515](https://github.com/Hari15112003/FLUTTER_UI_01/assets/96382443/f0c65991-9233-4f8a-a0c6-85bd2ec7c303)
+
+![Screenshot 2024-03-12 122421](https://github.com/Hari15112003/FLUTTER_UI_01/assets/96382443/6e327e5f-e399-4992-9f11-0baf63f2bb8d)
+
